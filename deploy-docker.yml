@@ -18,6 +18,11 @@
      docker_container:
         name: test
         state: absent
+   - name: remove image
+     docker_image:
+        state: absent
+        name: patel244/test
+        tag: 0.1
    - name: Start the container
      docker_container:
         name: test
