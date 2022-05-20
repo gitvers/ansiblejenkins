@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2 stype="colour: red">Deployed using Jenkins,welcome to the devops tutorials</h2>
+	<h2 stype="colour: red">welcome to the jenkins ci cd/h2>
 </body>
 </html>
